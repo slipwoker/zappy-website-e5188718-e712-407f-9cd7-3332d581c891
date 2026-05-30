@@ -129,44 +129,11 @@ All Courses
 New Season — Women & Men
 
 
-# Dress Bold.Live Now.
+#
 
+# Dress Bold.
 
-### Contemporary style for those who move with intention. Trend-aware apparel, crafted for confident dressing.
-
-
-Shop the Collection
-Our Story
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-New Season — Women & Men
-
-
-# Dress Bold.Live Now.
+Live Now.
 
 
 ### Contemporary style for those who move with intention. Trend-aware apparel, crafted for confident dressing.
@@ -1368,6 +1335,30 @@ Phone
 
 
 Address
+
+
+
+
+
+
+
+
+Business Hours
+
+
+- Monday 00:00 - 00:00
+
+- Tuesday 00:00 - 00:00
+
+- Wednesday 00:00 - 00:00
+
+- Thursday 00:00 - 00:00
+
+- Friday 00:00 - 00:00
+
+- Saturday 00:00 - 00:00
+
+- Sunday Closed
 
 
 
@@ -3034,6 +3025,27 @@ Phone: 0543392220
 
 
 Address: Israel, Rishon lezion
+
+
+
+### Business Hours
+
+
+- Monday: 00:00 - 00:00
+
+- Tuesday: 00:00 - 00:00
+
+- Wednesday: 00:00 - 00:00
+
+- Thursday: 00:00 - 00:00
+
+- Friday: 00:00 - 00:00
+
+- Saturday: 00:00 - 00:00
+
+- Sunday: Closed
+
+
 
 
 
