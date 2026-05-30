@@ -1,0 +1,101 @@
+# Loru — Generative Engine Optimization Map
+
+> A modern fashion brand offering clothing for both men and women. The brand aims to present a contemporary, stylish image through a landing page that appeals to a broad audience seeking trendy apparel.
+
+---
+
+## Pages
+
+### Home
+https://loru-e5188718.zappy5.app
+Discover Loru&#39;s curated fashion boutique online — where modern luxury meets everyday style. Shop bold men&#39;s and women&#39;s apparel that turns heads. Explore now.
+
+### Brand Story
+https://loru-e5188718.zappy5.app/brand-story
+Loru was born from a passion for luxury streetwear and boundary-pushing design. Uncover the story, the mission, and the movement redefining modern fashion for all.
+
+### Lookbook
+https://loru-e5188718.zappy5.app/lookbook
+Step inside Loru&#39;s latest lookbook and experience modern luxury styled to perfection. Get inspired by curated women apparel and men&#39;s fits crafted for the bold. Shop the look.
+
+### Contact
+https://loru-e5188718.zappy5.app/contact
+Have a question about Loru&#39;s luxury fashion collections or need styling advice? Reach out today — our team is ready to deliver a premium, personalized experience just for you.
+
+### Products
+https://loru-e5188718.zappy5.app/products
+Our Products - Loru
+
+### Cart
+https://loru-e5188718.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://loru-e5188718.zappy5.app/checkout
+Checkout
+
+### Login
+https://loru-e5188718.zappy5.app/login
+Customer Login
+
+### Account
+https://loru-e5188718.zappy5.app/account
+My Account
+
+### Order Success
+https://loru-e5188718.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://loru-e5188718.zappy5.app/product/:slug
+Product Details - Loru
+
+### Category
+https://loru-e5188718.zappy5.app/category/:slug
+Products - Loru
+
+## Legal & Policy
+
+### Privacy Policy
+https://loru-e5188718.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://loru-e5188718.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://loru-e5188718.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Loru
+A modern fashion brand offering clothing for both men and women. The brand aims to present a contemporary, stylish image through a landing page that appeals to a broad audience seeking trendy apparel.
+
+## Target Audience
+- נשים וגברים
+- Urban Fashion-Conscious Shoppers
+- Trend-Following Young Adults
+- Professional Power Dressers
+
+## Industry
+Fashion & Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://loru-e5188718.zappy5.app/sitemap.xml
+- Robots: https://loru-e5188718.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://loru-e5188718.zappy5.app/llms-full.txt
+- Products (JSON): https://loru-e5188718.zappy5.app/products.json
+- Products (Google Merchant RSS): https://loru-e5188718.zappy5.app/product-feed.xml
